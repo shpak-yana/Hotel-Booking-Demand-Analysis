@@ -45,7 +45,9 @@ An interactive version of the visualizations is available on Tableau Public:
 
 [🔗 View the interactive dashboard](https://public.tableau.com/views/HotelBookingDemandAnalysis_17889836306110/HotelBookingDemandAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+## Tableau Workbook
 
+The original Tableau workbook (`Hotel Booking Demand Analysis.twbx`) is available in the `tableau/` folder. Open it with Tableau Desktop to explore or modify the visualizations.
 
 ## 🚀 How to Run the Project
 
