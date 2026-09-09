@@ -43,7 +43,7 @@ By treating this as a real-world business case, I aimed to answer the following 
 
 An interactive version of the visualizations is available on Tableau Public:
 
-[🔗 View the interactive dashboard](https://public.tableau.com/shared/CQ6DWGWW4?:display_count=n&:origin=viz_share_link)
+[🔗 View the interactive dashboard](https://public.tableau.com/views/HotelBookingDemandAnalysis_17889836306110/HotelBookingDemandAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
