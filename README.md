@@ -39,6 +39,14 @@ By treating this as a real-world business case, I aimed to answer the following 
 - **Matplotlib / Seaborn** – Data visualisation (bar charts, heatmaps).
 - **Jupyter Notebook** – Interactive development environment.
 
+## Interactive Tableau Dashboard
+
+An interactive version of the visualizations is available on Tableau Public:
+
+[🔗 View the interactive dashboard](https://public.tableau.com/shared/CQ6DWGWW4?:display_count=n&:origin=viz_share_link)
+
+
+
 ## 🚀 How to Run the Project
 
 1. Clone this repository to your local machine.
