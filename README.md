@@ -9,7 +9,6 @@ This project analyses a publicly available hotel booking dataset containing **~1
 By treating this as a real-world business case, I aimed to answer the following questions:
 
 - Which countries generate the most successful bookings?
-- How does the length of stay differ between hotel types?
 - How often do guests receive a different room type than they reserved (overbooking proxy)?
 - When are the busiest booking months, and how does seasonality affect cancellations?
 - Do families with children behave differently in terms of booking stability (churn)?
